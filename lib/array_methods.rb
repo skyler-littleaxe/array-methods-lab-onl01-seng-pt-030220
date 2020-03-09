@@ -1,4 +1,4 @@
-def using_include(array, dance)
+def using_include(array, element1)
   array = ["dance", "element1", "warp"]
   array.include?(dance)
 end
