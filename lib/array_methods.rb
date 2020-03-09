@@ -2,7 +2,7 @@ def using_include(array, "wow")
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   array.include?("wow")
 end
-def usinginclude(array, "Tardis")
+def using_include(array, "Tardis")
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   array.include?("Tardis")
 end
