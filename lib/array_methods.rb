@@ -3,7 +3,7 @@ def using_include(array, "wow")
   array.include?("wow")
 end
 def usinginclude(array, "Tardis")
-  
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
   array.include?("Tardis")
 end
 
