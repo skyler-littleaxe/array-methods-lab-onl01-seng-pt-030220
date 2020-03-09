@@ -1,7 +1,6 @@
 def using_include(array, element1)
   array = ["dance", "element1", "warp"]
-  array.include?("element1")
-  array.include?("boop")
+  array.include?("element1", "boop")
 end
 
 def using_sort(array)
