@@ -1,4 +1,4 @@
-def using_include(array, element1)
+def using_include(array, wow)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   array.include?("wow")
 end
